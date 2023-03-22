@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://nishantkmr97.github.io/">Nishant's Portfolio</a>
 
-- 📮 Connect With Me On <a href="[https://linkedin.com/in/https://www.linkedin.com/in/nishant-kumar-554882237/](https://www.linkedin.com/in/nishant-kumar-554882237/)">LinkedIn</a>
+- 📮 Connect With Me On <a href="https://www.linkedin.com/in/nishant-kumar-554882237/">LinkedIn</a>
 
 
 - 📨 Email ID : **nishantkmr97@gmail.com**
