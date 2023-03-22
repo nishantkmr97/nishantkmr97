@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nishant Kumar</h1>
 <h3 align="center">A passionate Technical Support Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantkmr97&label=Profile%20views&color=0e75b6&style=flat" alt="nishantkmr97" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantkmr97&label=Profile%20views&color=0e75b6&style=flat" alt="nishantkmr97" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishantkmr97" alt="nishantkmr97" /></a> </p>
-
+ -->
 - 🔭 I’m currently working on [Dress Delight](https://github.com/nishantkmr97/prime-fear-7436)
 
 - 🌱 I’m currently learning **Database, OS, Linux, DSA, JS, HTML, CSS**
