@@ -16,7 +16,7 @@
 
 - 💬 Ask me about `Database, OS, Linux, DSA, JS, HTML, CSS.`
 
-- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/108dbvppceLWEET1g15iXErmRUGAfOCku/view?usp=sharing](https://drive.google.com/file/d/1hvEWxcQv_tiksIw_J-L8cSCxUkkpURHW/view?usp=sharing))">Nishant's Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1hvEWxcQv_tiksIw_J-L8cSCxUkkpURHW/view">Nishant's Resume</a>
 
 - 👨‍💻 All of my projects are available at <a href="https://nishantkmr97.github.io/">Nishant's Portfolio</a>
 
